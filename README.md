@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Diego Andrés</h1>
 <h3 align="center">Soy un Desarrollador de Software Full Stack de Chile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegoandresmarmota" alt="diegoandresmarmota" /></a> </p>
-
 <h3 align="left">¿Qué necesitas saber de mi?:</h3>
 
 - 🔭 Actualmente estoy adquiriendo conocimientos en distintos lenguajes y herramientas asociadas. Me gusta afrontar **nuevos desafíos personales y laborales**, para desarrollarme en el mundo de las tecnologías y em mi carrera personal. Estoy aprendiendo de manera autodidacta a través de plataformas e-learning, todo lo que pueda de **Back-End y Base de Datos**.

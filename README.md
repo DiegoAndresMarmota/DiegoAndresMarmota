@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoandresmarmota&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&locale=es" alt="diegoandresmarmota" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoandresmarmota&theme=dark" alt="diegoandresmarmota" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoandresmarmota&layout=compact)](https://github.com/diegoandresmarmota/github-readme-stats)
